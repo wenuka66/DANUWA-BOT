@@ -12,11 +12,11 @@ function convertToBool(text, fault = 'true') {
 
 
 const defaultConfig = {
-  SESSION_ID: "", // Put your session id here
+  SESSION_ID: "fYYl1YiA#lWHRH_-9JVIdCctCu0rIln2lXhizYpQ5D20BdNfZAe0", // Put your session id here
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
   ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
-  OPENAI_API_KEY: "",// Add OPENAI API key here
-  GEMINI_API_KEY: "", // Add Gemini API key here
+  OPENAI_API_KEY: "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",// Add OPENAI API key here
+  GEMINI_API_KEY: "AIzaSyAaJS5E5d0HrFZLqYPHbFbWzb4fuk3uDso", // Add Gemini API key here
   REMOVE_BG_API_KEY:"", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
   BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
